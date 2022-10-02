@@ -4,11 +4,11 @@
     DUE DATE :- 2 OCT 2022
 **/
 
-#include <iostream>
-#include <fstream>
-#include <cstring>
-#include <regex>
-#include<string>
+#include <iostream>      //for including input output stream function
+#include <fstream>       //for including file stream function
+#include <cstring>       
+#include <regex>         // provides a regular expression
+#include<string>         ////for including the string functions
 using namespace std;
 bool isNumber(string x)
 {
