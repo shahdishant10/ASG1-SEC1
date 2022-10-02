@@ -1,0 +1,306 @@
+Student Name is SPWKLZWHCIE GAPCEXAS   and number of exams are:- 11
+The marks for exams are :-
+100
+88
+95
+94
+98
+100
+90
+71
+100
+92
+98
+OVERALL GRADE:- A-
+
+Student Name is FCCEPWNFVV XJME W and number of exams are:- 11
+The marks for exams are :-
+78
+83
+92
+76
+83
+88
+93
+100
+68
+100
+70
+OVERALL GRADE:- B-
+
+Student Name is FKAXVFR MAEPR X and number of exams are:- 7
+The marks for exams are :-
+86
+100
+100
+100
+74
+99
+72
+OVERALL GRADE:- B+
+
+Student Name is UJSYE DTULCIC A and number of exams are:- 8
+The marks for exams are :-
+100
+87
+100
+85
+86
+100
+79
+84
+OVERALL GRADE:- B+
+
+Student Name is UIPXMS SLOVX   and number of exams are:- 5
+The marks for exams are :-
+85
+90
+100
+70
+98
+OVERALL GRADE:- B+
+
+Student Name is WAQGUMH BSPRXASR V and number of exams are:- 11
+The marks for exams are :-
+68
+85
+100
+71
+95
+65
+100
+76
+89
+100
+98
+OVERALL GRADE:- B
+
+Student Name is VVXFFGIK OWVQEMVS W and number of exams are:- 5
+The marks for exams are :-
+100
+78
+65
+100
+100
+OVERALL GRADE:- B+
+
+Student Name is HVPBUM LLWMAR C and number of exams are:- 10
+The marks for exams are :-
+89
+98
+72
+84
+78
+100
+100
+100
+84
+88
+OVERALL GRADE:- B+
+
+Student Name is XMKSPFF NNSR H and number of exams are:- 11
+The marks for exams are :-
+91
+89
+75
+67
+86
+90
+100
+100
+100
+100
+99
+OVERALL GRADE:- B+
+
+Student Name is YEELIT UEGAIN W and number of exams are:- 8
+The marks for exams are :-
+68
+93
+71
+67
+75
+100
+87
+79
+OVERALL GRADE:- C+
+
+Student Name is OTFI VZQHLLA D and number of exams are:- 10
+The marks for exams are :-
+95
+82
+100
+99
+100
+94
+96
+83
+86
+100
+OVERALL GRADE:- A-
+
+Student Name is OBWRBCI CWWUZGT D and number of exams are:- 9
+The marks for exams are :-
+76
+100
+77
+81
+83
+94
+82
+90
+69
+OVERALL GRADE:- B-
+
+Student Name is OKD MGULGFP   and number of exams are:- 9
+The marks for exams are :-
+93
+87
+70
+98
+98
+70
+100
+81
+98
+OVERALL GRADE:- B+
+
+Student Name is DAVWDFT BSJE R and number of exams are:- 9
+The marks for exams are :-
+76
+94
+69
+88
+87
+100
+75
+70
+96
+OVERALL GRADE:- B-
+
+Student Name is DJEOVV TDIZ K and number of exams are:- 11
+The marks for exams are :-
+90
+100
+100
+100
+75
+77
+100
+100
+87
+89
+92
+OVERALL GRADE:- A-
+
+Student Name is Rzg Rjrx   and number of exams are:- 5
+The marks for exams are :-
+86
+69
+100
+100
+100
+OVERALL GRADE:- B+
+
+Student Name is GYYAVR DZSC M and number of exams are:- 8
+The marks for exams are :-
+78
+100
+100
+68
+68
+100
+87
+85
+OVERALL GRADE:- B
+
+Student Name is SEESU JIKYMQ   and number of exams are:- 7
+The marks for exams are :-
+100
+81
+100
+74
+100
+89
+100
+OVERALL GRADE:- A-
+
+Student Name is FYFKENVQ LGJKRRX   and number of exams are:- 7
+The marks for exams are :-
+100
+88
+75
+100
+81
+65
+91
+OVERALL GRADE:- B
+
+Student Name is GZGILBKIT ICTF Q and number of exams are:- 5
+The marks for exams are :-
+100
+100
+81
+83
+75
+OVERALL GRADE:- B
+
+Student Name is TRQHK QCIC V and number of exams are:- 8
+The marks for exams are :-
+91
+100
+82
+100
+100
+81
+92
+96
+OVERALL GRADE:- A-
+
+Student Name is KMPTPTAV OZGASIN A and number of exams are:- 7
+The marks for exams are :-
+100
+68
+100
+89
+98
+84
+90
+OVERALL GRADE:- B+
+
+Student Name is WMWACIX CGLP T and number of exams are:- 5
+The marks for exams are :-
+100
+100
+71
+75
+80
+OVERALL GRADE:- B
+
+Student Name is ZBKOGI NTEIU R and number of exams are:- 9
+The marks for exams are :-
+100
+80
+73
+92
+81
+91
+85
+100
+91
+OVERALL GRADE:- B
+
+Student Name is DXTPGP NHZR Y and number of exams are:- 10
+The marks for exams are :-
+69
+100
+77
+92
+97
+91
+82
+75
+93
+100
+OVERALL GRADE:- B
+
