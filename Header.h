@@ -9,7 +9,14 @@
 #include <cstring>       
 #include <regex>         // provides a regular expression
 #include<string>         ////for including the string functions
+
 using namespace std;
+
+/** 
+   @brief return if the character is number or not 
+   @param varaible of string type
+   @return boolean value
+**/
 bool isNumber(string x)
 {
     regex e ("\\d+");
@@ -18,6 +25,13 @@ bool isNumber(string x)
     else
         return false;
 }
+
+/**
+    @brief Returns the average of each student.
+    @param variableOne The array of marks.
+    @param variabletwo number of exams.
+    @return Average in float type.
+*/
 float Average(int arr[], int n)
 {
     int total = 0;
@@ -31,6 +45,11 @@ float Average(int arr[], int n)
     return avgg;
 }
 
+/**
+    @brief returns the grade of student according the marks
+    @param variable of float datatype
+    @return grade in the form of string
+**/
 string studentgrade(float a)          //It is use to grade the student on the basis of the average. It take Average of the student as input and return grade as output
 {
 
